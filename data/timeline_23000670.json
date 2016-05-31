@@ -1,0 +1,3116 @@
+[
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "The full text of Dojo: TDG is now (legally) available online - http://t.co/JOzw45W - Enjoy.", 
+  "in_reply_to_status_id": null, 
+  "id": 109705689299030016, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": [
+    {
+     "url": "http://t.co/JOzw45W", 
+     "indices": [
+      63, 
+      82
+     ], 
+     "expanded_url": "http://bit.ly/p54Cph", 
+     "display_url": "bit.ly/p54Cph"
+    }
+   ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "109705689299030016", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Fri Sep 02 19:14:09 +0000 2011", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "DON'T STEAL THIS BOOK - Added section to http://bit.ly/biais2 w/ 5 reasons not to steal @oreillymedia books. (via @SocialWebMining)", 
+  "in_reply_to_status_id": null, 
+  "id": 29230605820493824, 
+  "favorite_count": 2, 
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 11069462, 
+     "indices": [
+      88, 
+      101
+     ], 
+     "id_str": "11069462", 
+     "screen_name": "OReillyMedia", 
+     "name": "O'Reilly Media"
+    }, 
+    {
+     "id": 132373965, 
+     "indices": [
+      114, 
+      130
+     ], 
+     "id_str": "132373965", 
+     "screen_name": "SocialWebMining", 
+     "name": "MiningTheSocialWeb"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "29230605820493824", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Sun Jan 23 17:34:54 +0000 2011", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Going to #PyCon? Be sure to attend Mining and Visualizing Data from the Social Web with Python http://bit.ly/h9e50A", 
+  "in_reply_to_status_id": null, 
+  "id": 23052453679210496, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://bitly.com\" rel=\"nofollow\">bitly</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      9, 
+      15
+     ], 
+     "text": "PyCon"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "23052453679210496", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Thu Jan 06 16:25:07 +0000 2011", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "If QR Codes == Short URLs, then RIP QR Codes? http://bit.ly/fub4m6", 
+  "in_reply_to_status_id": null, 
+  "id": 23050202088738816, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://bitly.com\" rel=\"nofollow\">bitly</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "23050202088738816", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Thu Jan 06 16:16:11 +0000 2011", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "A terse description for @oreillymedia's Mining the Social Web is now reflected on GitHub - http://bit.ly/bHdJda (via @SocialWebMining)", 
+  "in_reply_to_status_id": null, 
+  "id": 29113405205, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 11069462, 
+     "indices": [
+      24, 
+      37
+     ], 
+     "id_str": "11069462", 
+     "screen_name": "OReillyMedia", 
+     "name": "O'Reilly Media"
+    }, 
+    {
+     "id": 132373965, 
+     "indices": [
+      117, 
+      133
+     ], 
+     "id_str": "132373965", 
+     "screen_name": "SocialWebMining", 
+     "name": "MiningTheSocialWeb"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "29113405205", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Fri Oct 29 18:44:19 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Feedback is welcome on Mining the Social Web as I put on the finishing touches this week  http://amzn.to/d1p9Cx (via @ptwobrussell)", 
+  "in_reply_to_status_id": null, 
+  "id": 27795091201, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 13085242, 
+     "indices": [
+      117, 
+      130
+     ], 
+     "id_str": "13085242", 
+     "screen_name": "ptwobrussell", 
+     "name": "Matthew Russell"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "27795091201", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Tue Oct 19 02:31:59 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "@martinpacker Trying to work with @oreillymedia and @simonstl to get a 2nd Ed in the works. Hoping for something like http://bit.ly/du2X2D", 
+  "in_reply_to_status_id": 22022408596, 
+  "id": 22103796092, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 788299, 
+     "indices": [
+      0, 
+      13
+     ], 
+     "id_str": "788299", 
+     "screen_name": "martinpacker", 
+     "name": "Martin Packer"
+    }, 
+    {
+     "id": 11069462, 
+     "indices": [
+      34, 
+      47
+     ], 
+     "id_str": "11069462", 
+     "screen_name": "OReillyMedia", 
+     "name": "O'Reilly Media"
+    }, 
+    {
+     "id": 13096242, 
+     "indices": [
+      52, 
+      61
+     ], 
+     "id_str": "13096242", 
+     "screen_name": "simonstl", 
+     "name": "Simon St.Laurent"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": "martinpacker", 
+  "id_str": "22103796092", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": 788299, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": "788299", 
+  "lang": "en", 
+  "created_at": "Wed Aug 25 16:56:48 +0000 2010", 
+  "in_reply_to_status_id_str": "22022408596", 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "dojo.scotch() || dojo.beer() anyone? Great selections at http://bit.ly/c6JNEA Planning to be there Thurs @ 7:30ish. Come by! #OSCON", 
+  "in_reply_to_status_id": null, 
+  "id": 19024733087, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      125, 
+      131
+     ], 
+     "text": "OSCON"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "19024733087", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Tue Jul 20 21:46:43 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Up for trying what's hailed as one of the best Thai restaurants in Portland around 7pm? http://bit.ly/9tnQDg  #OSCON (via @ptwobrussell)", 
+  "in_reply_to_status_id": null, 
+  "id": 18957704836, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 13085242, 
+     "indices": [
+      122, 
+      135
+     ], 
+     "id_str": "13085242", 
+     "screen_name": "ptwobrussell", 
+     "name": "Matthew Russell"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      110, 
+      116
+     ], 
+     "text": "OSCON"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "18957704836", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Tue Jul 20 01:29:50 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Going to try Eagle Thai near Lloyd Center. All are welcome", 
+  "in_reply_to_status_id": null, 
+  "id": 18936849314, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "18936849314", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Mon Jul 19 18:56:06 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "@predominant I'm at 9th and multnomah right now. Want to come by and head over?", 
+  "in_reply_to_status_id": 18935445709, 
+  "id": 18935637689, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 19685068, 
+     "indices": [
+      0, 
+      12
+     ], 
+     "id_str": "19685068", 
+     "screen_name": "predominant", 
+     "name": "Graham Weldon"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": "predominant", 
+  "id_str": "18935637689", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": 19685068, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": "19685068", 
+  "lang": "en", 
+  "created_at": "Mon Jul 19 18:33:43 +0000 2010", 
+  "in_reply_to_status_id_str": "18935445709", 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Anyone at #oscon want Thai for lunch? #oscon10", 
+  "in_reply_to_status_id": null, 
+  "id": 18935287814, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      10, 
+      16
+     ], 
+     "text": "oscon"
+    }, 
+    {
+     "indices": [
+      38, 
+      46
+     ], 
+     "text": "oscon10"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "18935287814", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Mon Jul 19 18:27:30 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Interested in doing paid writing/blogging about @paypalx APIs? Can pay you $500 per ~1,500 word article. Blogging 2x per week pays $300/mo", 
+  "in_reply_to_status_id": null, 
+  "id": 18116857759, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "18116857759", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Fri Jul 09 13:14:30 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "If you're interested in seeing a 2nd Ed of Dojo: TDG, please RT and ref @oreillymedia - Let's get a new edition or open source the content!", 
+  "in_reply_to_status_id": null, 
+  "id": 17466186890, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 11069462, 
+     "indices": [
+      72, 
+      85
+     ], 
+     "id_str": "11069462", 
+     "screen_name": "OReillyMedia", 
+     "name": "O'Reilly Media"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "17466186890", 
+  "retweet_count": 20, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Thu Jul 01 04:00:25 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Interesting post: http://bit.ly/aVOlQp (Myth of China as a Superpower) to consider when looking at the WDI data at http://bit.ly/aeGNBC", 
+  "in_reply_to_status_id": null, 
+  "id": 14306016102, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "14306016102", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Wed May 19 17:17:56 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "@AE3nn Sorry - my hosting company not so conveniently killed the process b/c I started the web server w/ too much memory. Should be ok now", 
+  "in_reply_to_status_id": null, 
+  "id": 14288642374, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 15982862, 
+     "indices": [
+      0, 
+      6
+     ], 
+     "id_str": "15982862", 
+     "screen_name": "AE3nn", 
+     "name": "Ann"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": "AE3nn", 
+  "id_str": "14288642374", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": 15982862, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": "15982862", 
+  "lang": "en", 
+  "created_at": "Wed May 19 11:08:30 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Visualizing @worldbank World Development Indicators data with @dojo and Google Chart Tools. Interesting! http://bit.ly/aeGNBC", 
+  "in_reply_to_status_id": null, 
+  "id": 14271709381, 
+  "favorite_count": 3, 
+  "source": "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 27860681, 
+     "indices": [
+      12, 
+      22
+     ], 
+     "id_str": "27860681", 
+     "screen_name": "WorldBank", 
+     "name": "World Bank"
+    }, 
+    {
+     "id": 14572071, 
+     "indices": [
+      62, 
+      67
+     ], 
+     "id_str": "14572071", 
+     "screen_name": "dojo", 
+     "name": "dojotoolkit"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "14271709381", 
+  "retweet_count": 5, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Wed May 19 03:43:15 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "A superb set of (mostly online) resources for getting up to speed with Dojo and beyond - http://bit.ly/9bEa7U", 
+  "in_reply_to_status_id": null, 
+  "id": 10375272492, 
+  "favorite_count": 2, 
+  "source": "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "10375272492", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Fri Mar 12 14:59:14 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "A rare Dojo security advisory, please upgrade immediately.  http://bit.ly/a7eO2c (via @dojo)", 
+  "in_reply_to_status_id": null, 
+  "id": 10351085819, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 14572071, 
+     "indices": [
+      86, 
+      91
+     ], 
+     "id_str": "14572071", 
+     "screen_name": "dojo", 
+     "name": "dojotoolkit"
+    }
+   ], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "10351085819", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Fri Mar 12 02:11:04 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Interactive charts of USAID Data for the past ~60 years plotted out with Dojo's nice charting tools - http://bit.ly/aJmfIs #dojo #opendata", 
+  "in_reply_to_status_id": null, 
+  "id": 10238166496, 
+  "favorite_count": 23, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      123, 
+      128
+     ], 
+     "text": "dojo"
+    }, 
+    {
+     "indices": [
+      129, 
+      138
+     ], 
+     "text": "opendata"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "10238166496", 
+  "retweet_count": 11, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Tue Mar 09 21:16:19 +0000 2010", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "#dojobeer in 5 mins at o'flaherty's in San Jose #oscon #dojo", 
+  "in_reply_to_status_id": null, 
+  "id": 2790017958, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      0, 
+      9
+     ], 
+     "text": "dojobeer"
+    }, 
+    {
+     "indices": [
+      48, 
+      54
+     ], 
+     "text": "oscon"
+    }, 
+    {
+     "indices": [
+      55, 
+      60
+     ], 
+     "text": "dojo"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "2790017958", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Thu Jul 23 01:57:37 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "OSCON materials now available. All ~160 of them plus code examples! http://tinyurl.com/m3tkhu Also, dojo.beer() tomorrow @7pm #oscon #dojo", 
+  "in_reply_to_status_id": null, 
+  "id": 2767340709, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 43041878, 
+     "indices": [
+      121, 
+      125
+     ], 
+     "id_str": "43041878", 
+     "screen_name": "7pm", 
+     "name": "Huong Le"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      126, 
+      132
+     ], 
+     "text": "oscon"
+    }, 
+    {
+     "indices": [
+      133, 
+      138
+     ], 
+     "text": "dojo"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "2767340709", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Tue Jul 21 23:31:48 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Linux Journal Article Reprint - Dojo's Industrial Strength Data Grid http://tinyurl.com/mysma6 #dojo #ajax #linuxjournal", 
+  "in_reply_to_status_id": null, 
+  "id": 2747905143, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      95, 
+      100
+     ], 
+     "text": "dojo"
+    }, 
+    {
+     "indices": [
+      101, 
+      106
+     ], 
+     "text": "ajax"
+    }, 
+    {
+     "indices": [
+      107, 
+      120
+     ], 
+     "text": "linuxjournal"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "2747905143", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "id", 
+  "created_at": "Mon Jul 20 23:39:55 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "@dojobeer - The next #dojobeer will be this Wed, 22 July @ O'Flaherty's in San Jose. http://tinyurl.com/klk7fm #dojo #OSCON", 
+  "in_reply_to_status_id": null, 
+  "id": 2707283348, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [
+    {
+     "id": 39836629, 
+     "indices": [
+      0, 
+      9
+     ], 
+     "id_str": "39836629", 
+     "screen_name": "dojobeer", 
+     "name": "dojo.beer"
+    }
+   ], 
+   "hashtags": [
+    {
+     "indices": [
+      21, 
+      30
+     ], 
+     "text": "dojobeer"
+    }, 
+    {
+     "indices": [
+      111, 
+      116
+     ], 
+     "text": "dojo"
+    }, 
+    {
+     "indices": [
+      117, 
+      123
+     ], 
+     "text": "OSCON"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": "dojobeer", 
+  "id_str": "2707283348", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": 39836629, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": "39836629", 
+  "lang": "en", 
+  "created_at": "Sat Jul 18 15:25:29 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Anyone up for some dojo.beer() next week at oscon? http://tinyurl.com/klk7fm #dojo #oscon #dojobeer", 
+  "in_reply_to_status_id": null, 
+  "id": 2636938328, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      77, 
+      82
+     ], 
+     "text": "dojo"
+    }, 
+    {
+     "indices": [
+      83, 
+      89
+     ], 
+     "text": "oscon"
+    }, 
+    {
+     "indices": [
+      90, 
+      99
+     ], 
+     "text": "dojobeer"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "2636938328", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Tue Jul 14 18:58:43 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Dojo: TDG now in Russian translation! Any Russian speakers at oscon next week should look me up http://tinyurl.com/m8nsyv #dojo #ajax #oscon", 
+  "in_reply_to_status_id": null, 
+  "id": 2624830234, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      122, 
+      127
+     ], 
+     "text": "dojo"
+    }, 
+    {
+     "indices": [
+      128, 
+      133
+     ], 
+     "text": "ajax"
+    }, 
+    {
+     "indices": [
+      134, 
+      140
+     ], 
+     "text": "oscon"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "2624830234", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Tue Jul 14 01:57:45 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "10 Dojo Tips and Tricks (a power tutorial of sorts) - http://tinyurl.com/nh89u3 #dojo #javascript #ajax", 
+  "in_reply_to_status_id": null, 
+  "id": 2271467977, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [
+    {
+     "indices": [
+      80, 
+      85
+     ], 
+     "text": "dojo"
+    }, 
+    {
+     "indices": [
+      86, 
+      97
+     ], 
+     "text": "javascript"
+    }, 
+    {
+     "indices": [
+      98, 
+      103
+     ], 
+     "text": "ajax"
+    }
+   ], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "2271467977", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Sun Jun 21 23:33:22 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Pick up the latest Linux Journal for a great primer on Dojo's Industrial Strength Grid Widget: http://tinyurl.com/cb582h", 
+  "in_reply_to_status_id": null, 
+  "id": 1679865460, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "1679865460", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Sat May 02 17:21:38 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "Come learn about how Dojo can accelerate your web dev skillz at the 3-hour OSCON tutorial this summer in San Jose: http://tinyurl.com/ddr89t", 
+  "in_reply_to_status_id": null, 
+  "id": 1582428229, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "1582428229", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Wed Apr 22 05:31:55 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "A \"reprint\" of the Feb 09 Linux Journal article \"Dojo, Now With Drawing Tools\" - the best gfx intro I know of: http://tinyurl.com/dn5ca7", 
+  "in_reply_to_status_id": null, 
+  "id": 1363709721, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "1363709721", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Sat Mar 21 00:54:15 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "@karenigan - w00t!", 
+  "in_reply_to_status_id": null, 
+  "id": 1339729678, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": "kemcadams", 
+  "id_str": "1339729678", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": 12246992, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": "12246992", 
+  "lang": "ht", 
+  "created_at": "Tue Mar 17 01:21:30 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }, 
+ {
+  "contributors": null, 
+  "truncated": false, 
+  "text": "JavaScript/Ajax Bootcamp at The Big Nerd Ranch in May: http://tinyurl.com/alqufs", 
+  "in_reply_to_status_id": null, 
+  "id": 1286278974, 
+  "favorite_count": 0, 
+  "source": "web", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+   "symbols": [], 
+   "user_mentions": [], 
+   "hashtags": [], 
+   "urls": []
+  }, 
+  "in_reply_to_screen_name": null, 
+  "id_str": "1286278974", 
+  "retweet_count": 0, 
+  "in_reply_to_user_id": null, 
+  "favorited": false, 
+  "user": {
+   "follow_request_sent": false, 
+   "profile_use_background_image": true, 
+   "default_profile_image": false, 
+   "id": 23000670, 
+   "verified": false, 
+   "profile_text_color": "333333", 
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "profile_sidebar_fill_color": "DDEEF6", 
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "http://t.co/YOV4iuvhxg", 
+       "indices": [
+        0, 
+        22
+       ], 
+       "expanded_url": "http://dojotdg.com", 
+       "display_url": "dojotdg.com"
+      }
+     ]
+    }, 
+    "description": {
+     "urls": []
+    }
+   }, 
+   "followers_count": 103, 
+   "profile_sidebar_border_color": "C0DEED", 
+   "id_str": "23000670", 
+   "profile_background_color": "C0DEED", 
+   "listed_count": 9, 
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+   "utc_offset": -25200, 
+   "statuses_count": 32, 
+   "description": "Dojo: The Definitive Guide", 
+   "friends_count": 82, 
+   "location": "bookstores", 
+   "profile_link_color": "0084B4", 
+   "profile_image_url": "http://pbs.twimg.com/profile_images/88777010/Picture_1_normal.png", 
+   "following": false, 
+   "geo_enabled": false, 
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+   "screen_name": "dojotdg", 
+   "lang": "en", 
+   "profile_background_tile": false, 
+   "favourites_count": 1, 
+   "name": "Dojo: TDG", 
+   "notifications": false, 
+   "url": "http://t.co/YOV4iuvhxg", 
+   "created_at": "Thu Mar 05 23:56:39 +0000 2009", 
+   "contributors_enabled": false, 
+   "time_zone": "Mountain Time (US & Canada)", 
+   "protected": false, 
+   "default_profile": true, 
+   "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "lang": "en", 
+  "created_at": "Fri Mar 06 01:28:01 +0000 2009", 
+  "in_reply_to_status_id_str": null, 
+  "place": null
+ }
+]
